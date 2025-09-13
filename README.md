@@ -1,20 +1,118 @@
-<h1 align="center">Hi 👋, I'm Hemanshu Patil</h1>
-<h3 align="center">💻 3rd Year Computer Science Diploma Student @ Government Polytechnic, Pune 🚀 Aspiring Backend Developer | 🎯 Turning Ideas into Code</h3>
+# 👋 Hey there, I'm Hemanshu Patil!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmehemanshu&label=Profile%20views&color=0e75b6&style=flat" alt="itsmehemanshu" /> </p>
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Backend+%26+Full-Stack+Developer;Computer+Science+Student;Problem+Solver+%26+Innovator;Always+Learning%2C+Always+Building)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmehemanshu" alt="itsmehemanshu" /></a> </p>
+</div>
 
-- 🔭 I’m currently working on **Decentralized Storage System made with AES (Advanced Encryption Standards)**
+💻 **3rd Year Computer Science Diploma Student** @ Government Polytechnic, Pune  
+🚀 **Aspiring Backend & Full-Stack Developer** | 🎯 **Turning Ideas into Code**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/me.hp._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="me.hp._" height="30" width="40" /></a>
-</p>
+> *"The best way to predict the future is to create it."* – Peter Drucker
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://couchdb.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmehemanshu&show_icons=true&locale=en&layout=compact" alt="itsmehemanshu" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsmehemanshu&show_icons=true&locale=en" alt="itsmehemanshu" /></p>
+```javascript
+let hemanshu = {
+    pronouns: "He/Him",
+    currentFocus: "Backend Development & Logic Building",
+    education: "3rd Year Computer Science Diploma",
+    location: "Pune, Maharashtra, India",
+    currentProject: "SkillChain - Decentralized Skills Platform",
+    interests: ["Backend APIs", "Cloud Computing", "Blockchain", "IoT"],
+    askMeAbout: ["Node.js", "MongoDB", "REST APIs", "System Architecture"],
+    funFact: ""
+};
+```
+
+### 🎯 Current Goals
+- 🔹 **Building** robust backend systems with Node.js & Express.js
+- 🔹 **Learning** React.js to become a full-stack powerhouse
+- 🔹 **Exploring** microservices architecture and containerization
+- 🔹 **Contributing** to open-source projects
+- 🔹 **Preparing** for placement season with strong project portfolio
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-525252?style=for-the-badge&logo=assembly&logoColor=white)
+
+### Frameworks & Libraries
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Platforms
+![VS Code](https://img.shields.io/badge/VS_Code-0078d4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 📂 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| 🔐 **SkillChain** | Decentralized, verified skills & portfolio platform for students | Node.js, MongoDB, Blockchain | [Demo](#) \| [Code](#) |
+| 📝 **Retail Shop Calculator** | Assembly language calculator | Assembly (8086) | [Code](#) |
+
+</div>
+
+---
+
+
+
+## 🏆 Achievements & Highlights
+
+- 🎯 **Final Year Project**: Leading development of SkillChain platform
+- 💡 **Problem Solver**: Implemented complex algorithms in multiple languages
+- 🔧 **System Thinker**: Experience with both high-level and low-level programming
+- 📚 **Continuous Learner**: Always exploring new technologies and frameworks
+- 🤝 **Team Player**: VES-Technothon 2024 Winner 
+
+---
+
+## 📈 What I'm Up To
+
+```yaml
+current_status:
+  - 🔨 Working on: SkillChain MVP development
+  - 📖 Reading: "Clean Code" by Robert Martin
+  - 🎯 Learning: React.js & Docker containerization
+  - 💻 Coding: REST APIs and database optimization
+  - 🌱 Growing: System design knowledge
+```
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemanshupatil2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/prajwal-jadhav-4a2120373/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/me.hp._)
+
+
+</div>
+
