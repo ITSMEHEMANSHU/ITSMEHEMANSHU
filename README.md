@@ -74,7 +74,7 @@ let hemanshu = {
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
 | 🔐 **SkillChain** | Decentralized, verified skills & portfolio platform for students | Node.js, MongoDB, Blockchain | [Demo](#) \| [Code](#) |
-| 📝 **Retail Shop Calculator** | Assembly language calculator | Assembly (8086) | [Code](#) |
+| 📝 **Calculator** | Assembly language calculator | Assembly (8086) | [Code](#) |
 
 </div>
 
