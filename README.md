@@ -80,6 +80,20 @@ let hemanshu = {
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+![Hemanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajwaljadhav&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prajwaljadhav&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwaljadhav&theme=radical&hide_border=true&layout=compact)
+
+</div>
+
+---
+
 
 
 ## 🏆 Achievements & Highlights
